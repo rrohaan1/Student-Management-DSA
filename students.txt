@@ -1,0 +1,4 @@
+011,Taha,3.1,Cys,Fall2024
+035,Eessa,3.97,Cys,Fall2024
+050,Rohaan,3.27,Cys,Fall2024
+001,Minahil,3.3,Cys,Fall2024
